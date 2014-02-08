@@ -16,12 +16,6 @@
             "homepage": "https://github.com/sonata-project/SonataDoctrinePHPCRAdminBundle/contributors"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/KailZhang/SonataDoctrinePhpcrAdminBundle"
-        }
-    ],
     "require": {
         "php": ">=5.3.3",
         "sonata-project/admin-bundle": ">=2.2.7,<2.2.9",
@@ -29,8 +23,7 @@
         "symfony/property-access": "~2.2",
         "doctrine/phpcr-odm":"1.*",
         "doctrine/phpcr-bundle":"1.*",
-        "symfony-cmf/tree-browser-bundle": ">=1.1.0,<1.2.0",
-        "sonata-project/doctrine-phpcr-admin-bundle": "dev-1.0"
+        "symfony-cmf/tree-browser-bundle": ">=1.1.0,<1.2.0"
     },
     "require-dev": {
         "jackalope/jackalope-jackrabbit": "1.*"
