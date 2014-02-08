@@ -30,7 +30,7 @@
         "doctrine/phpcr-odm":"1.*",
         "doctrine/phpcr-bundle":"1.*",
         "symfony-cmf/tree-browser-bundle": ">=1.1.0,<1.2.0",
-        "sonata-project/doctrine-phpcr-admin-bundle": "dev-k1"
+        "sonata-project/doctrine-phpcr-admin-bundle": "dev-1.0"
     },
     "require-dev": {
         "jackalope/jackalope-jackrabbit": "1.*"
